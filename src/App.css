@@ -1,0 +1,26 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.Balance {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  text-align: center;
+}
+div>button{
+  width: 60px;
+  height: 40px;
+  background-color: black;
+  color: white;
+
+}
+div>button:hover{
+  background-color: blue;
+}
+
+
+
+
